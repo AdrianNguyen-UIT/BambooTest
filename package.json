@@ -1,0 +1,26 @@
+{
+  "name": "bambootest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "math.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdrianNguyen-UIT/BambooTest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianNguyen-UIT/BambooTest/issues"
+  },
+  "homepage": "https://github.com/AdrianNguyen-UIT/BambooTest#readme",
+  "devDependencies": {
+    "jest": "^29.2.1"
+  }
+}
