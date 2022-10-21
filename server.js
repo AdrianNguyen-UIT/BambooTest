@@ -7,7 +7,7 @@ const server = http.createServer(app);
 const math = require("./math");
 
 app.get("/", (req, res) => {
-    res.status(200).send("Hello World!");
+    res.status(200).send("Hello Class!");
 });
 
 app.get("/sum/:a&:b", (req, res) => {
