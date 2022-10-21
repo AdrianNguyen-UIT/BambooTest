@@ -7,8 +7,7 @@
     "test": "test"
   },
   "scripts": {
-    "testLib": "jest -- math.test.js --verbose",
-    "testAPI": "jest -- server.test.js --verbose",
+    "test": "jest --verbose",
     "dev": "nodemon server.js",
     "build": "echo 'build script executed'"
   },
